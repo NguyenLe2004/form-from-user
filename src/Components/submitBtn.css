@@ -1,0 +1,7 @@
+.submitBtn Button{
+    background-color: rgb(244, 89, 89);
+    font-size: 25px;
+    position: relative;
+    top: 5vh;
+    left: 74vw;
+}
